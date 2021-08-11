@@ -1,2 +1,2 @@
 # dl_ch4_writeup
-Code samples for my writeup of Chapter 4 of Deep Learning for Coders
+Code samples for my writeups of Chapter 4 of Deep Learning for Coders
